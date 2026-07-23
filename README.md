@@ -41,6 +41,7 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/hvgovardhan/DSA/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/hvgovardhan/DSA/tree/master/0128-longest-consecutive-sequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,4 +50,12 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/hvgovardhan/DSA/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/hvgovardhan/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/hvgovardhan/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
