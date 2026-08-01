@@ -40,6 +40,7 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/hvgovardhan/DSA/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/hvgovardhan/DSA/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/hvgovardhan/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hvgovardhan/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -76,4 +77,12 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hvgovardhan/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/hvgovardhan/DSA/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/hvgovardhan/DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
