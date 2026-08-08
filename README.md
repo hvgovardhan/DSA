@@ -46,6 +46,7 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 | [0118-pascals-triangle](https://github.com/hvgovardhan/DSA/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/hvgovardhan/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/hvgovardhan/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/hvgovardhan/DSA/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hvgovardhan/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
@@ -68,6 +69,7 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/hvgovardhan/DSA/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hvgovardhan/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
