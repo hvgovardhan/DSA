@@ -40,6 +40,7 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/hvgovardhan/DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/hvgovardhan/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/hvgovardhan/DSA/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/hvgovardhan/DSA/tree/master/0075-sort-colors) |
@@ -72,6 +73,7 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/hvgovardhan/DSA/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/hvgovardhan/DSA/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hvgovardhan/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
