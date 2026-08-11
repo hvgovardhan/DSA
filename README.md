@@ -40,6 +40,7 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/hvgovardhan/DSA/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/hvgovardhan/DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/hvgovardhan/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/hvgovardhan/DSA/tree/master/0054-spiral-matrix) |
@@ -53,10 +54,12 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/hvgovardhan/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/hvgovardhan/DSA/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/hvgovardhan/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/hvgovardhan/DSA/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/hvgovardhan/DSA/tree/master/0229-majority-element-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hvgovardhan/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
