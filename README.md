@@ -66,6 +66,7 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 | [0075-sort-colors](https://github.com/hvgovardhan/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/hvgovardhan/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/hvgovardhan/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/hvgovardhan/DSA/tree/master/0242-valid-anagram) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hvgovardhan/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
@@ -73,6 +74,7 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 | [0128-longest-consecutive-sequence](https://github.com/hvgovardhan/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/hvgovardhan/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/hvgovardhan/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/hvgovardhan/DSA/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/hvgovardhan/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Union-Find
 |  |
@@ -124,4 +126,8 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/hvgovardhan/DSA/tree/master/0229-majority-element-ii) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/hvgovardhan/DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
