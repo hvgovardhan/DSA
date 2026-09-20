@@ -121,6 +121,7 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/hvgovardhan/DSA/tree/master/0054-spiral-matrix) |
+| [3498-reverse-degree-of-a-string](https://github.com/hvgovardhan/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -139,6 +140,7 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 | ------- |
 | [0242-valid-anagram](https://github.com/hvgovardhan/DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/hvgovardhan/DSA/tree/master/0383-ransom-note) |
+| [3498-reverse-degree-of-a-string](https://github.com/hvgovardhan/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Recursion
 |  |
 | ------- |
