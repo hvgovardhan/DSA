@@ -9,16 +9,22 @@ public:
             if (nums[mid] == target){
                 return true;
             }
-            if (nums[left] <= nums[mid]){
+
+            if (nums[mid] == nums[left] && nums[mid] == nums[right]){
+                left++;
+                right--;
+            }
+
+            else if (nums[left] <= nums[mid]){
                 if (target >= nums[left] && target < nums[mid]){
-                    right = right-1;
+                    right = mid-1;
                 }else
-                    left = left +1;
+                    left = mid +1;
             }else
                 if (target > nums[mid] && target <= nums[right]){
-                    left = left + 1;
+                    left = mid + 1;
                 }else
-                    right = right - 1;
+                    right = mid - 1;
         }
         return false;
     }
