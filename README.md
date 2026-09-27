@@ -93,6 +93,7 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 | [0033-search-in-rotated-sorted-array](https://github.com/hvgovardhan/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hvgovardhan/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hvgovardhan/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/hvgovardhan/DSA/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hvgovardhan/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hvgovardhan/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/hvgovardhan/DSA/tree/master/0704-binary-search) |
@@ -116,6 +117,7 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/hvgovardhan/DSA/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/hvgovardhan/DSA/tree/master/0069-sqrtx) |
 ## Matrix
 |  |
 | ------- |
@@ -153,4 +155,8 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/hvgovardhan/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/hvgovardhan/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
