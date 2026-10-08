@@ -40,6 +40,7 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hvgovardhan/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/hvgovardhan/DSA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/hvgovardhan/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hvgovardhan/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -76,6 +77,7 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hvgovardhan/DSA/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/hvgovardhan/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/hvgovardhan/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/hvgovardhan/DSA/tree/master/0229-majority-element-ii) |
