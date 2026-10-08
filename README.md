@@ -53,6 +53,7 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 | [0128-longest-consecutive-sequence](https://github.com/hvgovardhan/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/hvgovardhan/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/hvgovardhan/DSA/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/hvgovardhan/DSA/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hvgovardhan/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/hvgovardhan/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/hvgovardhan/DSA/tree/master/0704-binary-search) |
@@ -73,6 +74,7 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 | [0217-contains-duplicate](https://github.com/hvgovardhan/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/hvgovardhan/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/hvgovardhan/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/hvgovardhan/DSA/tree/master/0268-missing-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hvgovardhan/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
@@ -82,6 +84,7 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 | [0217-contains-duplicate](https://github.com/hvgovardhan/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/hvgovardhan/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/hvgovardhan/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/hvgovardhan/DSA/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/hvgovardhan/DSA/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/hvgovardhan/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/hvgovardhan/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -97,6 +100,7 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 | [0035-search-insert-position](https://github.com/hvgovardhan/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/hvgovardhan/DSA/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hvgovardhan/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/hvgovardhan/DSA/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hvgovardhan/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/hvgovardhan/DSA/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hvgovardhan/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -120,6 +124,7 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 | ------- |
 | [0048-rotate-image](https://github.com/hvgovardhan/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/hvgovardhan/DSA/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/hvgovardhan/DSA/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -161,4 +166,8 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/hvgovardhan/DSA/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/hvgovardhan/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
