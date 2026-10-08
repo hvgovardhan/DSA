@@ -86,6 +86,7 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 | [0242-valid-anagram](https://github.com/hvgovardhan/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hvgovardhan/DSA/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/hvgovardhan/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/hvgovardhan/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/hvgovardhan/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/hvgovardhan/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Union-Find
@@ -144,6 +145,7 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 | ------- |
 | [0229-majority-element-ii](https://github.com/hvgovardhan/DSA/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/hvgovardhan/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/hvgovardhan/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -153,6 +155,7 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 | ------- |
 | [0242-valid-anagram](https://github.com/hvgovardhan/DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/hvgovardhan/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/hvgovardhan/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/hvgovardhan/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Recursion
 |  |
@@ -170,4 +173,8 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/hvgovardhan/DSA/tree/master/0268-missing-number) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/hvgovardhan/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
