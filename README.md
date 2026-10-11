@@ -60,6 +60,7 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 | [0560-subarray-sum-equals-k](https://github.com/hvgovardhan/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/hvgovardhan/DSA/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hvgovardhan/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/hvgovardhan/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/hvgovardhan/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/hvgovardhan/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/hvgovardhan/DSA/tree/master/3904-smallest-stable-index-ii) |
@@ -174,6 +175,7 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/hvgovardhan/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/hvgovardhan/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Newton's Method
 |  |
