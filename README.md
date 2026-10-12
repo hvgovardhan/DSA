@@ -91,6 +91,7 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hvgovardhan/DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/hvgovardhan/DSA/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/hvgovardhan/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/hvgovardhan/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/hvgovardhan/DSA/tree/master/0229-majority-element-ii) |
@@ -142,6 +143,7 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/hvgovardhan/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/hvgovardhan/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/hvgovardhan/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/hvgovardhan/DSA/tree/master/0268-missing-number) |
@@ -172,6 +174,7 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/hvgovardhan/DSA/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/hvgovardhan/DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/hvgovardhan/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/hvgovardhan/DSA/tree/master/0387-first-unique-character-in-a-string) |
