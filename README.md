@@ -175,6 +175,7 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 | [0242-valid-anagram](https://github.com/hvgovardhan/DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/hvgovardhan/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/hvgovardhan/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1021-remove-outermost-parentheses](https://github.com/hvgovardhan/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/hvgovardhan/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Recursion
 |  |
@@ -197,4 +198,12 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/hvgovardhan/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/hvgovardhan/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/hvgovardhan/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
