@@ -45,6 +45,7 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 | [0033-search-in-rotated-sorted-array](https://github.com/hvgovardhan/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hvgovardhan/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hvgovardhan/DSA/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/hvgovardhan/DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/hvgovardhan/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/hvgovardhan/DSA/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/hvgovardhan/DSA/tree/master/0075-sort-colors) |
@@ -92,6 +93,7 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 | ------- |
 | [0001-two-sum](https://github.com/hvgovardhan/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/hvgovardhan/DSA/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/hvgovardhan/DSA/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/hvgovardhan/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/hvgovardhan/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/hvgovardhan/DSA/tree/master/0229-majority-element-ii) |
@@ -150,6 +152,7 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/hvgovardhan/DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/hvgovardhan/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/hvgovardhan/DSA/tree/master/0054-spiral-matrix) |
 ## Simulation
