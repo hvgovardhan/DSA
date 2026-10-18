@@ -180,6 +180,7 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/hvgovardhan/DSA/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/hvgovardhan/DSA/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/hvgovardhan/DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/hvgovardhan/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/hvgovardhan/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -210,11 +211,13 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hvgovardhan/DSA/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/hvgovardhan/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hvgovardhan/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hvgovardhan/DSA/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/hvgovardhan/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hvgovardhan/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
