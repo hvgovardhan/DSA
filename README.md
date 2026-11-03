@@ -67,6 +67,7 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 | [2540-minimum-common-value](https://github.com/hvgovardhan/DSA/tree/master/2540-minimum-common-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/hvgovardhan/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/hvgovardhan/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/hvgovardhan/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3903-smallest-stable-index-i](https://github.com/hvgovardhan/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/hvgovardhan/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
@@ -151,6 +152,7 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 | [0048-rotate-image](https://github.com/hvgovardhan/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/hvgovardhan/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/hvgovardhan/DSA/tree/master/0268-missing-number) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/hvgovardhan/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Matrix
 |  |
 | ------- |
