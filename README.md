@@ -59,6 +59,7 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 | [0268-missing-number](https://github.com/hvgovardhan/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hvgovardhan/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hvgovardhan/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/hvgovardhan/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hvgovardhan/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/hvgovardhan/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/hvgovardhan/DSA/tree/master/0704-binary-search) |
@@ -152,6 +153,7 @@ Solve 300+ DSA problems and improve problem-solving skills for coding interviews
 | [0048-rotate-image](https://github.com/hvgovardhan/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/hvgovardhan/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/hvgovardhan/DSA/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/hvgovardhan/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/hvgovardhan/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Matrix
 |  |
